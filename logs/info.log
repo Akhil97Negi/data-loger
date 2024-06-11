@@ -1,0 +1,526 @@
+2024-06-11T06:02:39.242Z [INFO] - Running scheduled task
+2024-06-11T06:02:39.475Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:25.693Z [INFO] - Running scheduled task
+2024-06-11T06:03:25.755Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:25.762Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:25.771Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:26.814Z [INFO] - Running scheduled task
+2024-06-11T06:03:26.840Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:26.854Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:26.858Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:27.879Z [INFO] - Running scheduled task
+2024-06-11T06:03:27.884Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:27.889Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:27.913Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:28.933Z [INFO] - Running scheduled task
+2024-06-11T06:03:28.936Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:28.941Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:28.946Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:29.973Z [INFO] - Running scheduled task
+2024-06-11T06:03:29.976Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:29.979Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:29.981Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:30.990Z [INFO] - Running scheduled task
+2024-06-11T06:03:31.000Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:31.047Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:31.063Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:32.077Z [INFO] - Running scheduled task
+2024-06-11T06:03:32.085Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:32.089Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:32.093Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:33.115Z [INFO] - Running scheduled task
+2024-06-11T06:03:33.119Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:33.121Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:33.125Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:34.142Z [INFO] - Running scheduled task
+2024-06-11T06:03:34.146Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:34.156Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:34.173Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:35.200Z [INFO] - Running scheduled task
+2024-06-11T06:03:35.203Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:35.205Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:35.209Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:35.988Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:36.232Z [INFO] - Running scheduled task
+2024-06-11T06:03:36.238Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:36.240Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:36.244Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:36.991Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:37.256Z [INFO] - Running scheduled task
+2024-06-11T06:03:37.259Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:37.274Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:37.279Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:38.023Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:38.300Z [INFO] - Running scheduled task
+2024-06-11T06:03:38.303Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:38.305Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:38.319Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:39.059Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:39.346Z [INFO] - Running scheduled task
+2024-06-11T06:03:39.348Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:39.350Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:39.354Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:40.458Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:40.485Z [INFO] - Running scheduled task
+2024-06-11T06:03:40.509Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:40.524Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:40.540Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:41.163Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:41.575Z [INFO] - Running scheduled task
+2024-06-11T06:03:41.579Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:41.581Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:41.584Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:42.296Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:42.593Z [INFO] - Running scheduled task
+2024-06-11T06:03:42.596Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:42.607Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:42.656Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:43.240Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:43.708Z [INFO] - Running scheduled task
+2024-06-11T06:03:43.711Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:43.713Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:43.715Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:44.257Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:44.720Z [INFO] - Running scheduled task
+2024-06-11T06:03:44.725Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:44.729Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:44.734Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:45.269Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:45.815Z [INFO] - Running scheduled task
+2024-06-11T06:03:45.825Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:45.842Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:45.906Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:46.201Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:46.462Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:46.926Z [INFO] - Running scheduled task
+2024-06-11T06:03:46.935Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:46.942Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:46.950Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:47.173Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:47.376Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:48.001Z [INFO] - Running scheduled task
+2024-06-11T06:03:48.011Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:48.021Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:48.041Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:48.269Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:48.485Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:49.182Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:49.196Z [INFO] - Running scheduled task
+2024-06-11T06:03:49.202Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:49.210Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:49.216Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:49.411Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:50.235Z [INFO] - Running scheduled task
+2024-06-11T06:03:50.242Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:50.251Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:50.261Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:50.542Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:50.654Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:51.294Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:51.404Z [INFO] - Running scheduled task
+2024-06-11T06:03:51.407Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:51.410Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:51.412Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:51.629Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:52.384Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:52.440Z [INFO] - Running scheduled task
+2024-06-11T06:03:52.445Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:52.451Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:52.454Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:52.756Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:53.387Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:53.462Z [INFO] - Running scheduled task
+2024-06-11T06:03:53.466Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:53.469Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:53.471Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:53.858Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:54.357Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:54.489Z [INFO] - Running scheduled task
+2024-06-11T06:03:54.492Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:54.494Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:54.500Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:54.830Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:55.366Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:55.551Z [INFO] - Running scheduled task
+2024-06-11T06:03:55.557Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:55.571Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:55.584Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:55.972Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:56.381Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:03:56.600Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:56.607Z [INFO] - Running scheduled task
+2024-06-11T06:03:56.612Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:56.625Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:56.635Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:57.128Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:57.325Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:03:57.511Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:57.653Z [INFO] - Running scheduled task
+2024-06-11T06:03:57.661Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:57.671Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:57.686Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:58.360Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:58.443Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:03:58.566Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:58.707Z [INFO] - Running scheduled task
+2024-06-11T06:03:58.710Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:58.714Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:58.719Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:03:59.274Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:03:59.371Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:03:59.544Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:03:59.733Z [INFO] - Running scheduled task
+2024-06-11T06:03:59.738Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:59.743Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:03:59.747Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:00.469Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:00.841Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:00.926Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:00.956Z [INFO] - Running scheduled task
+2024-06-11T06:04:00.969Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:00.975Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:00.984Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:01.377Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:01.510Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:01.707Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:01.999Z [INFO] - Running scheduled task
+2024-06-11T06:04:02.003Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:02.007Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:02.011Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:02.445Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:02.607Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:02.811Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:03.026Z [INFO] - Running scheduled task
+2024-06-11T06:04:03.035Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:03.041Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:03.061Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:03.471Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:03.619Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:03.972Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:04.081Z [INFO] - Running scheduled task
+2024-06-11T06:04:04.084Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:04.087Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:04.089Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:04.454Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:04.634Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:04.920Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:05.095Z [INFO] - Running scheduled task
+2024-06-11T06:04:05.110Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:05.116Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:05.123Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:05.459Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:05.693Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:06.069Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:06.143Z [INFO] - Running scheduled task
+2024-06-11T06:04:06.146Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:06.148Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:06.151Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:06.522Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:06.859Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:07.083Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:07.276Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:07.286Z [INFO] - Running scheduled task
+2024-06-11T06:04:07.290Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:07.294Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:07.311Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:07.476Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:07.655Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:07.811Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:08.364Z [INFO] - Running scheduled task
+2024-06-11T06:04:08.451Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:08.454Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:08.456Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:08.537Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:08.703Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:08.890Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:09.059Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:09.436Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:09.538Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:09.556Z [INFO] - Running scheduled task
+2024-06-11T06:04:09.575Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:09.577Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:09.586Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:09.693Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:10.002Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:10.680Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:10.684Z [INFO] - Running scheduled task
+2024-06-11T06:04:10.687Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:10.690Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:10.691Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:10.916Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:11.105Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:11.143Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:11.850Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:12.327Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:12.437Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:12.450Z [INFO] - Running scheduled task
+2024-06-11T06:04:12.455Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:12.460Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:12.470Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:12.518Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:12.572Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:12.677Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:12.944Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:13.147Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:13.480Z [INFO] - Running scheduled task
+2024-06-11T06:04:13.484Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:13.487Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:13.494Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:13.747Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:13.959Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:14.049Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:14.158Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:14.543Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:14.567Z [INFO] - Running scheduled task
+2024-06-11T06:04:14.587Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:14.594Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:14.603Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:14.779Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:15.074Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:15.256Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:15.620Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:15.627Z [INFO] - Running scheduled task
+2024-06-11T06:04:15.634Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:15.640Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:15.682Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:16.126Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:16.290Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:16.471Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:16.654Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:16.773Z [INFO] - Running scheduled task
+2024-06-11T06:04:16.790Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:16.799Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:16.803Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:17.138Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:17.459Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:17.750Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:17.889Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:17.975Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:18.084Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:18.255Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:18.260Z [INFO] - Running scheduled task
+2024-06-11T06:04:18.270Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:18.273Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:18.290Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:18.508Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:18.707Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:18.838Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:19.030Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:19.137Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:19.322Z [INFO] - Running scheduled task
+2024-06-11T06:04:19.325Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:19.327Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:19.332Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:19.647Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:19.743Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:19.870Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:20.061Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:20.198Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:20.353Z [INFO] - Running scheduled task
+2024-06-11T06:04:20.357Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:20.359Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:20.360Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:20.810Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:20.920Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:20.973Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:21.174Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:21.263Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:21.378Z [INFO] - Running scheduled task
+2024-06-11T06:04:21.381Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:21.385Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:21.390Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:21.992Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:22.590Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:22.607Z [INFO] - Running scheduled task
+2024-06-11T06:04:22.611Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:22.619Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:22.620Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:22.700Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:22.790Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:22.857Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:23.017Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:23.171Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:23.348Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:23.502Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:23.574Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:23.631Z [INFO] - Running scheduled task
+2024-06-11T06:04:23.651Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:23.655Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:23.676Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:23.877Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:23.999Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:24.101Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:24.230Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:24.832Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:25.034Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:25.071Z [INFO] - Running scheduled task
+2024-06-11T06:04:25.169Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:25.206Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:25.222Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:25.310Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:25.402Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:25.576Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:04:25.680Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:04:25.861Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:04:26.343Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:04:26.372Z [INFO] - Running scheduled task
+2024-06-11T06:04:26.449Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:26.548Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:26.604Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:26.752Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:04:33.578Z [INFO] - Running scheduled task
+2024-06-11T06:04:33.597Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:33.603Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:33.606Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:34.632Z [INFO] - Running scheduled task
+2024-06-11T06:04:34.639Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:34.642Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:34.646Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:35.669Z [INFO] - Running scheduled task
+2024-06-11T06:04:35.674Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:35.679Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:35.685Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:36.706Z [INFO] - Running scheduled task
+2024-06-11T06:04:36.710Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:36.713Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:36.718Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:37.751Z [INFO] - Running scheduled task
+2024-06-11T06:04:37.754Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:37.757Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:37.762Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:44.549Z [INFO] - Running scheduled task
+2024-06-11T06:04:44.585Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:44.587Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:44.590Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:45.626Z [INFO] - Running scheduled task
+2024-06-11T06:04:45.631Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:45.649Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:45.671Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:46.693Z [INFO] - Running scheduled task
+2024-06-11T06:04:46.699Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:46.702Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:46.706Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:47.723Z [INFO] - Running scheduled task
+2024-06-11T06:04:47.730Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:47.739Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:47.747Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:48.770Z [INFO] - Running scheduled task
+2024-06-11T06:04:48.858Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:48.861Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:48.864Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:49.999Z [INFO] - Running scheduled task
+2024-06-11T06:04:50.077Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:50.099Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:50.102Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:04:59.280Z [INFO] - Running scheduled task
+2024-06-11T06:04:59.303Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:59.305Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:04:59.311Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:00.007Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:00.322Z [INFO] - Running scheduled task
+2024-06-11T06:05:00.325Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:00.334Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:00.340Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:00.747Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:00.912Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:01.131Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:01.234Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:01.357Z [INFO] - Running scheduled task
+2024-06-11T06:05:01.360Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:01.364Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:01.367Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:01.504Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:01.719Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:02.049Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:02.086Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:02.399Z [INFO] - Running scheduled task
+2024-06-11T06:05:02.401Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:02.402Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:02.404Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:02.425Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:05:02.567Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:05:02.683Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:02.761Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:03.250Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:03.390Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:03.466Z [INFO] - Running scheduled task
+2024-06-11T06:05:03.483Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:03.501Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:03.519Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:03.703Z [INFO] - Processing chunk: 7 / 15
+2024-06-11T06:05:03.816Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:03.990Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:04.154Z [INFO] - Processing chunk: 7 / 15
+2024-06-11T06:05:04.397Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:04.533Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:05:04.564Z [INFO] - Running scheduled task
+2024-06-11T06:05:04.566Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:04.582Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:04.586Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:04.994Z [INFO] - Processing chunk: 8 / 15
+2024-06-11T06:05:05.076Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:05:05.190Z [INFO] - Processing chunk: 7 / 15
+2024-06-11T06:05:05.353Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:05.448Z [INFO] - Processing chunk: 8 / 15
+2024-06-11T06:05:05.504Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:05.603Z [INFO] - Running scheduled task
+2024-06-11T06:05:05.631Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:05.647Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:05.668Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:05.744Z [INFO] - Processing chunk: 7 / 15
+2024-06-11T06:05:05.860Z [INFO] - Processing chunk: 8 / 15
+2024-06-11T06:05:05.982Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:06.491Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:06.766Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:06.788Z [INFO] - Running scheduled task
+2024-06-11T06:05:06.790Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:06.800Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:06.803Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:06.972Z [INFO] - Processing chunk: 8 / 15
+2024-06-11T06:05:07.330Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:07.470Z [INFO] - Processing chunk: 9 / 15
+2024-06-11T06:05:07.636Z [INFO] - Processing chunk: 9 / 15
+2024-06-11T06:05:07.959Z [INFO] - Running scheduled task
+2024-06-11T06:05:07.969Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:07.987Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:08.003Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:08.100Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:08.304Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:08.489Z [INFO] - Processing chunk: 9 / 15
+2024-06-11T06:05:08.588Z [INFO] - Processing chunk: 9 / 15
+2024-06-11T06:05:08.874Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:09.101Z [INFO] - Running scheduled task
+2024-06-11T06:05:09.105Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:09.107Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:09.119Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:09.185Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:09.271Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:09.343Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:09.613Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:05:09.800Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:10.195Z [INFO] - Processing chunk: 10 / 15
+2024-06-11T06:05:10.348Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:10.403Z [INFO] - Running scheduled task
+2024-06-11T06:05:10.415Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:10.430Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:10.438Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:10.629Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:10.863Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:10.989Z [INFO] - Processing chunk: 4 / 15
+2024-06-11T06:05:11.127Z [INFO] - Processing chunk: 10 / 15
+2024-06-11T06:05:11.286Z [INFO] - Processing chunk: 10 / 15
+2024-06-11T06:05:11.410Z [INFO] - Processing chunk: 7 / 15
+2024-06-11T06:05:11.553Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:11.580Z [INFO] - Running scheduled task
+2024-06-11T06:05:11.584Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:11.587Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:11.597Z [INFO] - Processing chunk: 1 / 15
+2024-06-11T06:05:11.805Z [INFO] - Processing chunk: 3 / 15
+2024-06-11T06:05:11.934Z [INFO] - Processing chunk: 2 / 15
+2024-06-11T06:05:12.001Z [INFO] - Processing chunk: 10 / 15
+2024-06-11T06:05:12.295Z [INFO] - Processing chunk: 6 / 15
+2024-06-11T06:05:12.521Z [INFO] - Processing chunk: 5 / 15
+2024-06-11T06:05:12.794Z [INFO] - Running scheduled task
+2024-06-11T06:05:12.847Z [INFO] - Read data from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:12.878Z [INFO] - Parsed data successfully from file: C:\Users\GJPC\Desktop\evaluation\MOCK.json
+2024-06-11T06:05:12.883Z [INFO] - Processing chunk: 1 / 15
