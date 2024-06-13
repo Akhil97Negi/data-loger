@@ -39,14 +39,14 @@ app.get('/', (req, res) => {
     }
 
     res.send(`
-    <h1>Log Dashboard</h1>
-    <form method="get" style="margin-bottom: 20px;">
-      <label for="level">Log Level:</label>
+    <h1>Dashboard Running Live</h1>
+    <form method="get" style="margin-bottom: 40px;">
+      <label for="level">Logs Type</label>
       <select id="level" name="level" onchange="this.form.submit()">
-        <option value="INFO" ${level === 'INFO' ? 'selected' : ''}>INFO</option>
-        <option value="WARN" ${level === 'WARN' ? 'selected' : ''}>WARN</option>
-        <option value="ERROR" ${level === 'ERROR' ? 'selected' : ''}>ERROR</option>
-        <option value="SUCCESS" ${level === 'SUCCESS' ? 'selected' : ''}>SUCCESS</option>
+        <option style="color : blue" value="INFO" ${level === 'INFO' ? 'selected' : ''}>INFO</option>
+        <option style="color : yellow" value="WARN" ${level === 'WARN' ? 'selected' : ''}>WARN</option>
+        <option style="color :  red"  value="ERROR" ${level === 'ERROR' ? 'selected' : ''}>ERROR</option>
+        <option style="color : green" value="SUCCESS" ${level === 'SUCCESS' ? 'selected' : ''}>SUCCESS</option>
       </select>
     </form>
     <pre>${filteredLogs.join('\n')}</pre>
